@@ -1,4 +1,8 @@
 # Directadmin-1.60.4-Nulled
+Cai cac phan ho tro
+```
+sudo apt-get install gcc g++ make flex bison openssl libssl-dev perl perl-base perl-modules libperl-dev libaio1 libaio-dev zlib1g zlib1g-dev libcap-dev bzip2 automake autoconf libtool
+```
 Directadmin 1.60.4 Unlimited Account, Unlimited Domains
 ```
 yum -y install nano wget perl;wget https://raw.githubusercontent.com/puarudz/Directadmin-1.60.4-Nulled/master/setup.sh;chmod +x setup.sh;./setup.sh
